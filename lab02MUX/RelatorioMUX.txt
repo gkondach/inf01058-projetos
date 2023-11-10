@@ -1,0 +1,5 @@
+Numero total de logic elements
+circuito combinacional 8
+pinos 25
+
+FR - 9,920 - z[5]
